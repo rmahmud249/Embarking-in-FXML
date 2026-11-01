@@ -1,9 +1,6 @@
 ## 🎥 Project Demonstration
 
 ### Project Thumbnail
-
-Click the thumbnail below to watch the complete project demonstration.
-
 [![JavaFX E-Commerce Project](assets/thumbnail.png)](demo/ecommerce-demo.mp4)
 
 ### Project Demo Video
